@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning as much as I can
-- 👯 I’m looking to collaborate on anything
+- 👯 Check out some of my repositories that include some cryptographic algorithms on Python
 - 📫 How to reach me: Email con676@hotmail.co.uk
 - ⚡ Fun fact: This was used as an introductory tutorial
 
